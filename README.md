@@ -1,4 +1,5 @@
 # Christmas Movies Analysis
+<img width="1004" alt="Screenshot 2024-12-09 at 16 43 49" src="https://github.com/user-attachments/assets/7118a793-b059-4c90-8898-f511667972f3">
 
 This repository contains a Jupyter Notebook for analyzing a dataset of Christmas movies. The notebook demonstrates how to:
 
