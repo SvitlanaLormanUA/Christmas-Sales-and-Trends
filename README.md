@@ -1,5 +1,5 @@
 # Christmas Sales and Trends Analysis
-<img width="1004" alt="Screenshot 2024-12-09 at 16 43 49" src="https://github.com/user-attachments/assets/7118a793-b059-4c90-8898-f511667972f3">
+<img width="1013" alt="Screenshot 2024-12-12 at 14 08 44" src="https://github.com/user-attachments/assets/8e1113fd-3a7b-4f77-a76a-884e967bba52" />
 
 This repository contains a Jupyter Notebook for analyzing a dataset of Christmas movies. The notebook demonstrates how to:
 
@@ -102,7 +102,6 @@ The dataset contains the following columns:
 24. `CustomerSatisfaction`
 25. `ReturnFlag`
 
-These columns provide details about customer transactions, products, and other relevant information like shipping and promotions.
 ---
 
 ## Flexmonster Integration
