@@ -1,4 +1,4 @@
-# Christmas Movies Analysis
+# Christmas Sales and Trends Analysis
 <img width="1004" alt="Screenshot 2024-12-09 at 16 43 49" src="https://github.com/user-attachments/assets/7118a793-b059-4c90-8898-f511667972f3">
 
 This repository contains a Jupyter Notebook for analyzing a dataset of Christmas movies. The notebook demonstrates how to:
@@ -46,7 +46,7 @@ Ensure you have a Kaggle API key. Place the `kaggle.json` file in the correct lo
 
 ### 4. Run the Notebook
 
-Start Jupyter Notebook or JupyterLab and open the file `Christmas-movies-analysis.ipynb`:
+Start Jupyter Notebook or JupyterLab and open the file `"Christmas-sales-and-trends.ipynb`:
 
 ```bash
 jupyter notebook
@@ -56,7 +56,7 @@ jupyter notebook
 ## Features
 
 1. **Dataset Download**:
-   - Automatically downloads the `christmas-movies` dataset from Kaggle using `kagglehub`.
+   - Automatically downloads the `Christmas Sales and Trends` dataset from Kaggle using `kagglehub`.
 
 2. **Data Processing**:
    - Cleans and processes the dataset for analysis.
@@ -72,27 +72,42 @@ jupyter notebook
 
 ## Dataset Details
 
-- **Source**: Kaggle dataset `christmas-movies`
+- **Source**: Kaggle dataset `Christmas Sales and Trends`
 - **Columns**:
-  - `title`: Movie title
-  - `rating`: Content rating (e.g., PG, R)
-  - `runtime`: Movie duration in minutes
-  - `imdb_rating`: IMDb rating
-  - `release_year`: Year the movie was released
-  - Other fields related to genre, director, and stars.
+The dataset contains the following columns:
 
+1. `TransactionID`
+2. `Date`
+3. `Time`
+4. `CustomerID`
+5. `Age`
+6. `Gender`
+7. `Location`
+8. `StoreID`
+9. `OnlineOrderFlag`
+10. `ProductID`
+11. `ProductName`
+12. `Category`
+13. `Quantity`
+14. `UnitPrice`
+15. `TotalPrice`
+16. `PaymentType`
+17. `PromotionApplied`
+18. `DiscountAmount`
+19. `GiftWrap`
+20. `ShippingMethod`
+21. `DeliveryTime`
+22. `Weather`
+23. `Event`
+24. `CustomerSatisfaction`
+25. `ReturnFlag`
+
+These columns provide details about customer transactions, products, and other relevant information like shipping and promotions.
 ---
 
 ## Flexmonster Integration
 
-The notebook includes integration with Flexmonster to create interactive pivot tables:
-
-- **Configuration**:
-  - Rows: Movie titles
-  - Measures: Average IMDb rating, Sum of release years
-  - Grid Options: Totals and grand totals are disabled for a cleaner display.
-
----
+The notebook includes integration with Flexmonster to create interactive pivot tables.
 
 ## Notes
 
