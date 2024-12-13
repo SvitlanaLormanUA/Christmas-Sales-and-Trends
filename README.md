@@ -1,5 +1,4 @@
 # Christmas Sales and Trends Analysis
-<img width="1009" alt="Screenshot 2024-12-12 at 14 23 04" src="https://github.com/user-attachments/assets/c7322af1-a780-4a84-8e34-f00874099d0c" />
 
 This repository contains a Jupyter Notebook for analyzing a dataset of Christmas movies. The notebook demonstrates how to:
 
