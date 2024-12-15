@@ -57,22 +57,6 @@ Start Jupyter Notebook or JupyterLab and open the file `"Christmas-sales-and-tre
 ```bash
 jupyter notebook
 ```
----
-
-## Features
-
-1. **Dataset Download**:
-   - Automatically downloads the `Christmas Sales and Trends` dataset from Kaggle using `kagglehub`.
-
-2. **Data Processing**:
-   - Cleans and processes the dataset for analysis.
-   - Converts data into JSON format for visualization.
-
-3. **Data Analysis**:
-   - Analyzes key metrics such as IMDb ratings, runtime, and release years.
-
-4. **Visualization**:
-   - Interactive pivot tables created with Flexmonster.
 
 ---
 
@@ -109,10 +93,6 @@ The dataset contains the following columns:
 25. `ReturnFlag`
 
 ---
-
-## Flexmonster Integration
-
-The notebook includes integration with Flexmonster to create interactive pivot tables.
 
 ## Notes
 
