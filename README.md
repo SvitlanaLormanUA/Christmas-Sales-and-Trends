@@ -1,10 +1,12 @@
 # Christmas Sales and Trends Analysis
+<img width="1548" alt="Screenshot 2024-12-15 at 20 16 34" src="https://github.com/user-attachments/assets/1f4dc19c-73c4-42d0-8816-79fbe7579d5a" />
 
-This repository contains a Jupyter Notebook for analyzing a dataset of Christmas movies. The notebook demonstrates how to:
+This repository contains a Jupyter Lab and Flexmonster for analyzing a dataset of Christmas movies. The notebook demonstrates how to:
 
 - Download a dataset from Kaggle.
 - Process and analyze the data using Python.
-- Create visualizations and insights into Christmas movie trends.
+- Create the pivot table with Flexmonster
+- Create visualizations and insights into Christmas presents trends.
 
 ---
 
@@ -14,6 +16,7 @@ To run the notebook, ensure the following are installed:
 
 - Python 3.7+
 - Jupyter Notebook or JupyterLab
+- Flexmonster CLI
 - Libraries:
   - `pandas`
   - `json`
