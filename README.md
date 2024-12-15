@@ -1,7 +1,7 @@
 # Christmas Sales and Trends Analysis
 <img width="1548" alt="Screenshot 2024-12-15 at 20 16 34" src="https://github.com/user-attachments/assets/1f4dc19c-73c4-42d0-8816-79fbe7579d5a" />
 
-This repository contains a Jupyter Lab and Flexmonster for analyzing a dataset of Christmas movies. The notebook demonstrates how to:
+This repository contains a Jupyter Lab and Flexmonster for analyzing a Christmas Sales and Trends dataset. The notebook demonstrates how to:
 
 - Download a dataset from Kaggle.
 - Process and analyze the data using Python.
