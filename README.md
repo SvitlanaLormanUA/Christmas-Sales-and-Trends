@@ -36,12 +36,16 @@ cd <repository-directory>
 
 ### 2. Install Dependencies
 
-Use `pip` to install the required libraries:
+- Use `pip` to install the required libraries:
 
 ```bash
 pip install pandas kagglehub jupyter
 ```
 
+- Install Flexmonster CLI:
+```bash
+npm install -g flexmonster-cli
+```
 ### 3. Configure Kaggle API
 
 Ensure you have a Kaggle API key. Place the `kaggle.json` file in the correct location (`~/.kaggle/` for most systems).
